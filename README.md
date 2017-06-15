@@ -36,13 +36,13 @@ test_maze_##.txt - These consist of three sample mazes to test the robot.
 #### To Display a Visual Representation of Maze
 
 In terminal or command window, enter and run the following:
-Test Maze 1 - `$ python showmaze.py test_maze_01.txt`
-Test Maze 2 - `$ python showmaze.py test_maze_02.txt`
-Test Maze 3 - `$ python showmaze.py test_maze_03.txt`
+* Test Maze 1 - `$ python showmaze.py test_maze_01.txt`
+* Test Maze 2 - `$ python showmaze.py test_maze_02.txt`
+* Test Maze 3 - `$ python showmaze.py test_maze_03.txt`
 
 #### To Test the Robot in a Maze
 
 In terminal or command window, enter and run the following:
-Test Maze 1 - `$ python tester.py test_maze_01.txt`
-Test Maze 2 - `$ python tester.py test_maze_02.txt`
-Test Maze 3 - `$ python tester.py test_maze_03.txt`
+* Test Maze 1 - `$ python tester.py test_maze_01.txt`
+* Test Maze 2 - `$ python tester.py test_maze_02.txt`
+* Test Maze 3 - `$ python tester.py test_maze_03.txt`
